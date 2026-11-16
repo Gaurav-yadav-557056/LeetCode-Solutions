@@ -45,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/0075-sort-colors) |
+## String
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
