@@ -2,7 +2,7 @@
 
 
 
-class Solution {
+class Solution1 {
 public:
     int longestConsecutive(vector<int>& nums) {
         if(nums.size() == 0)
@@ -25,7 +25,6 @@ public:
                 count = 1;
             }
         }
-
         maxi = max(count, maxi);
 
         return maxi;
@@ -33,13 +32,29 @@ public:
 };
 
 
+// solve using set that reduce the time complexity 
+class Solution {
+public:
+    int longestConsecutive(vector<int>& nums) {
 
-// class Solution {
-// public:
-//     int longestConsecutive(vector<int>& nums) {
-        
-//     }
-// };
+        unordered_set<int> st;
 
+        for(int i = 0; i < nums.size(); i++) {
+            st.insert(nums[i]);
+        }
+        int maxi = 0;
+        for(auto it = st.begin(); it != st.end(); it++) {
+            int num = *it;
+            if(st.find(num - 1) == st.end()) {  // this if consdition check that the current element is the last element means smallest element or not 
+                int count = 1;
+                while(st.find(num + 1) != st.end()) { // check elenment pressent in the set or not 
+                    num++;
+                    count++;
+                }
+                maxi = max(maxi, count);   
+            }
+        }
 
-
+        return maxi;
+    }
+};
