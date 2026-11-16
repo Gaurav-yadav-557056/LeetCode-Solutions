@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Math
 |  |
@@ -19,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
