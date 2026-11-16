@@ -1,6 +1,6 @@
 // brute force using iterative method that basically do sum of three element in the given array a push in the trmprory string and move on the next three element 
 
-class Solution1 {
+class Solution {
 public:
     string digitSum(string s, int k) {
         while(s.size() > k) {
@@ -21,7 +21,7 @@ public:
 
 // same concept using recursive method 
 
-class Solution {
+class Solution1 {
 public:
 
     string solve(string s, int k) {
