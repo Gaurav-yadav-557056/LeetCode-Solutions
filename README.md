@@ -56,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Database
+|  |
+| ------- |
+| [0180-consecutive-numbers](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/0180-consecutive-numbers) |
 <!---LeetCode Topics End-->
