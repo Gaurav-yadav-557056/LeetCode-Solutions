@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0994-rotting-oranges](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
@@ -98,4 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
