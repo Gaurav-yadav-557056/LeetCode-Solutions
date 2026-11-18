@@ -15,10 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Prefix Sum
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
