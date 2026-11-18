@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Simulation
 |  |
 | ------- |
