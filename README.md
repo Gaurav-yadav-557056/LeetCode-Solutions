@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 ## Math
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0451-sort-characters-by-frequency](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 ## Union-Find
 |  |
 | ------- |
@@ -78,4 +80,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2206-divide-array-into-equal-pairs](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 <!---LeetCode Topics End-->
