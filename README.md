@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0994-rotting-oranges](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Prefix Sum
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0994-rotting-oranges](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 ## Combinatorics
 |  |
