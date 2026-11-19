@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0680-valid-palindrome-ii](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Sorting
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0680-valid-palindrome-ii](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -125,5 +127,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0680-valid-palindrome-ii](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 <!---LeetCode Topics End-->
