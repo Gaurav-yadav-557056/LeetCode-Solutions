@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Math
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0451-sort-characters-by-frequency](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Quicksort
 |  |
 | ------- |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/0062-unique-paths) |
+## Greedy
+|  |
+| ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 <!---LeetCode Topics End-->
