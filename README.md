@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0994-rotting-oranges](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0513-find-bottom-left-tree-value](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 ## Binary Tree
 |  |
@@ -117,12 +120,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0513-find-bottom-left-tree-value](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0994-rotting-oranges](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
+| [0130-surrounded-regions](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0994-rotting-oranges](https://github.com/Gaurav-yadav-557056/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 ## Combinatorics
 |  |
